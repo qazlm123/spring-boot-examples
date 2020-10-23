@@ -43,6 +43,7 @@ public class TestRedis {
         	System.out.println("exists is true");
         }else{
         	System.out.println("exists is false");
+        	System.out.println("exists is false");
         }
        // Assert.assertEquals("aa", operations.get("com.neo.f").getUserName());
     }
