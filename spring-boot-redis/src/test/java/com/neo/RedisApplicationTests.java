@@ -16,6 +16,7 @@ public class RedisApplicationTests {
 		System.out.println("hello web");
 		System.out.println("小学生");
 		System.out.println("这就是java代码啊，真厉害");
+
 	}
 
 }

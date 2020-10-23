@@ -21,6 +21,10 @@ public interface UserRepository extends JpaRepository<User, Long> {
     @Query("update User set userName = ?1 where id = ?2")
     int modifyById(String  userName, Long id);
 
+    /**
+     * 这里是测试一些备注
+     * @param id
+     */
     @Transactional
     @Modifying
     @Query("delete from User where id = ?1")
