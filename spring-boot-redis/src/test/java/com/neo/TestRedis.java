@@ -49,6 +49,7 @@ public class TestRedis {
         	System.out.println("exists is false");
         	System.out.println("exists is false");
         	System.out.println("exists is false 这里就是一些修改，我可以这样实现，加油你好");
+            System.out.println("其实你不要想那么多努力学习就好了，就是这样的加油吧，不为别人就为了你的父母和自己生活好一点，不要想太多了，你肯定是加油你自己是没有其他优势的，相信自己");
         }
        // Assert.assertEquals("aa", operations.get("com.neo.f").getUserName());
     }
