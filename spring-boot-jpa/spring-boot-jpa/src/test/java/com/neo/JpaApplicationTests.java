@@ -11,6 +11,7 @@ public class JpaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("hello 这里是一个test 信息");
 	}
 
 }
